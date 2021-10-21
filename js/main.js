@@ -38,12 +38,13 @@ jQuery(function ($) {
 
         function smoothScrollTo(target) {
             target = target.length ? target : $('[name=' + this.hash.slice(1) + ']');
+            console.log(target[0].id);
             if (target.length) {
                 docSlider.jumpPage(target[0].id)
             }
         }
 
-        $('a[href*="#"]:not([href="#"])').click(function () {
+        $('a[href*="#"]:not([href="#"]):not(".carousel-control")').click(function () {
             if (location.pathname.replace(/^\//, '') == this.pathname.replace(/^\//, '') && location.hostname == this.hostname) {
                 smoothScrollTo($(this.hash));
                 return false;
