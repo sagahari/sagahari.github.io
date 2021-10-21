@@ -70,13 +70,13 @@ jQuery(function ($) {
         });
     });
 
-    $('.odometer').appear(function (e) {
-        var odo = $(".odometer");
-        odo.each(function () {
-            var countNumber = $(this).attr("data-count");
-            $(this).html(countNumber);
-        });
-    });
+    // $('.odometer').appear(function (e) {
+    //     var odo = $(".odometer");
+    //     odo.each(function () {
+    //         var countNumber = $(this).attr("data-count");
+    //         $(this).html(countNumber);
+    //     });
+    // });
     (function ($) {
         $('.tab ul.tabs').addClass('active').find('> li:eq(0)').addClass('current');
         $('.tab ul.tabs li a').on('click', function (g) {
