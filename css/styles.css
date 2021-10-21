@@ -952,10 +952,6 @@ span.title5 {
     border: 1px solid #ddd;
 }
 
-.docSlider-button {
-    display: none;
-}
-
 #skills .col-md-6 {
     padding-top: 80px;
 }
@@ -1407,10 +1403,10 @@ span.title8 {
 .tw ul li, ol li {
     font-size: 14px;
     text-align: left;
-    margin-top: 30px;
+    margin-top: 17px;
     margin-left: 150px;
     font-weight: 300;
-    line-height: 10px;
+    line-height: 17px;
     color: #000;
 }
 

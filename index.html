@@ -24,8 +24,8 @@
 			class="hamburger-menu-button-open">Menu</span></button>
 	<nav id="ham-navigation" class="ham-menu">
 		<ul class="menu">
-			<li class="active"><a href="index.html">Home</a></li>
-			<li><a href="about-me.html">About Me</a></li>
+			<li class="active"><a href="/">Home</a></li>
+			<li><a href="/about-me">About Me</a></li>
 			<li><a href="#contact-us">Contact</a></li>
 		</ul>
 	</nav>
@@ -35,12 +35,12 @@
 				<div class="container">
 					<div class="col-md-12">
 						<div class="col-md-2">
-							<a href="index.html"><img src="images/logo.png" class="img-responsive"></a>
+							<a href="/"><img src="images/logo.png" class="img-responsive"></a>
 						</div>
 						<div class="col-md-10">
 							<ul class="dk">
-								<li class="active"><a href="index.html">Home</a></li>
-								<li><a href="about-me.html">About Me</a></li>
+								<li class="active"><a href="/">Home</a></li>
+								<li><a href="/about-me">About Me</a></li>
 								<li><a href="#contact-us">Contact</a></li>
 							</ul>
 						</div>
@@ -91,7 +91,7 @@
 								<img src="images/logo-4ufinance.png" class="img-responsive">
 								<p>UCase-study of finance 4 u to create a Saas Software.we would like to make into more
 									user-friendly and easy to use design.</p>
-								<a href="/finance-u.html"
+								<a href="/finance-u"
 									class="animate__animated animate__slideInRight animate__delay-0.5s">view more</a>
 								<p class="no">01</p>
 							</div>
@@ -118,7 +118,7 @@
 									of *"providing health promotion and wellness services that fuel professional and
 									personal growth.
 									Create a IOS Platfom for Pregnancy and fetal development.</p>
-								<a href="/hello-mom.html">view more</a>
+								<a href="/hello-mom">view more</a>
 								<p class="no">02</p>
 							</div>
 						</div>
@@ -158,7 +158,7 @@
 								<p>UTAP is the next generation digital business card. It uses NFC Technology to make
 									sharing contact information as easy as using Apple Pay.
 									UTAP products allow you to share contact info.</p>
-								<a href="/u-tap.html">view more</a>
+								<a href="/u-tap">view more</a>
 								<p class="no">03</p>
 							</div>
 						</div>
@@ -183,7 +183,7 @@
 								<p>How might we help the consumer to eat more local food? Also, help the former to
 									cultivate more local and organic food? We created an IOS app to track the local
 									market.</p>
-								<a href="/eat-local.html">view more</a>
+								<a href="/eat-local">view more</a>
 								<p class="no">04</p>
 							</div>
 						</div>
@@ -272,11 +272,12 @@
 	<script src="https://cdn.jsdelivr.net/npm/docslider@3.0.1/docSlider.min.js"
 		integrity="sha256-0DTn6Go0MrKReDnFNYfH0cUxccsAc7ykWG0SybF7JPM=" crossorigin="anonymous"
 		referrerpolicy="no-referrer"></script>
+	<script src="js/jquery.meanmenu.js"></script>
+
+	<script src="js/main.js"></script>
 
 	<script>
 		$(function () {
-			docSlider.init();
-
 			var button = document.getElementById('hamburger-menu'),
 				span = button.getElementsByTagName('span')[0];
 
