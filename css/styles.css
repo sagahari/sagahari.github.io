@@ -2102,12 +2102,27 @@ section {
     top: 0px;
 }
 
+#second #carousel picture {
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    height: 100vh;
+}
+
 .carousel-control.right {
     right: 15px;
 }
 
 .carousel-control.left {
     left: 15px;
+}
+
+.carousel-indicators li {
+    border: 1px solid #F05879!important;
+}
+
+.carousel-indicators .active {
+    background-color: #F05879!important;
 }
 
 .about section {
