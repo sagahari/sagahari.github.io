@@ -617,7 +617,31 @@
         margin-left: 5px;
     }
     #par .parallax-f4u {
-        background: url(../images/casestudy/financeu/f4u-cover-600x300.jpg)!important;
+        background: url(../images/casestudy/financeu/f4u-cover-640x320.jpg)!important;
+        background-repeat: no-repeat!important;
+        background-attachment: scroll!important;
+        background-size: 100%!important;
+        width: 100%!important;
+        background-position: center!important;
+    }
+    #par .parallax-hellomom {
+        background: url(../images/casestudy/hellomom/hellomom-cover-640x320.jpg)!important;
+        background-repeat: no-repeat!important;
+        background-attachment: scroll!important;
+        background-size: 100%!important;
+        width: 100%!important;
+        background-position: center!important;
+    }
+    #par .parallax-eatlocal {
+        background: url(../images/casestudy/eatlocal/eatlocal-cover-640x320.jpg)!important;
+        background-repeat: no-repeat!important;
+        background-attachment: scroll!important;
+        background-size: 100%!important;
+        width: 100%!important;
+        background-position: center!important;
+    }
+    #par .parallax-utap {
+        background: url(../images/casestudy/utap/utap-cover-640x320.jpg)!important;
         background-repeat: no-repeat!important;
         background-attachment: scroll!important;
         background-size: 100%!important;
@@ -715,6 +739,30 @@
     }
     #par .parallax-f4u {
         background: url(../images/casestudy/financeu/f4u-cover-800x400.jpg)!important;
+        background-repeat: no-repeat!important;
+        background-attachment: fixed!important;
+        background-size: 100%!important;
+        width: 100%!important;
+        background-position: center!important;
+    }
+    #par .parallax-hellomom {
+        background: url(../images/casestudy/hellomom/hellomom-cover-800x400.jpg)!important;
+        background-repeat: no-repeat!important;
+        background-attachment: fixed!important;
+        background-size: 100%!important;
+        width: 100%!important;
+        background-position: center!important;
+    }
+    #par .parallax-eatlocal {
+        background: url(../images/casestudy/eatlocal/eatlocal-cover-800x400.jpg)!important;
+        background-repeat: no-repeat!important;
+        background-attachment: fixed!important;
+        background-size: 100%!important;
+        width: 100%!important;
+        background-position: center!important;
+    }
+    #par .parallax-utap {
+        background: url(../images/casestudy/utap/utap-cover-800x400.jpg)!important;
         background-repeat: no-repeat!important;
         background-attachment: fixed!important;
         background-size: 100%!important;
@@ -1038,11 +1086,59 @@
         width: 100%!important;
         background-position: center!important;
     }
+    #par .parallax-hellomom {
+        background: url(../images/casestudy/hellomom/hellomom-cover-1024x512.jpg)!important;
+        background-repeat: no-repeat!important;
+        background-attachment: fixed!important;
+        background-size: 100%!important;
+        width: 100%!important;
+        background-position: center!important;
+    }
+    #par .parallax-eatlocal {
+        background: url(../images/casestudy/eatlocal/eatlocal-cover-1024x512.jpg)!important;
+        background-repeat: no-repeat!important;
+        background-attachment: fixed!important;
+        background-size: 100%!important;
+        width: 100%!important;
+        background-position: center!important;
+    }
+    #par .parallax-utap {
+        background: url(../images/casestudy/utap/utap-cover-1024x512.jpg)!important;
+        background-repeat: no-repeat!important;
+        background-attachment: fixed!important;
+        background-size: 100%!important;
+        width: 100%!important;
+        background-position: center!important;
+    }
 }
 
 @media only screen and (min-device-width: 768px) and (max-device-width: 1023px) {
     #par .parallax-f4u {
         background: url(../images/casestudy/financeu/f4u-cover-1024x512.jpg)!important;
+        background-repeat: no-repeat!important;
+        background-attachment: fixed!important;
+        background-size: 100%!important;
+        width: 100%!important;
+        background-position: center!important;
+    }
+    #par .parallax-hellomom {
+        background: url(../images/casestudy/hellomom/hellomom-cover-1024x512.jpg)!important;
+        background-repeat: no-repeat!important;
+        background-attachment: fixed!important;
+        background-size: 100%!important;
+        width: 100%!important;
+        background-position: center!important;
+    }
+    #par .parallax-eatlocal {
+        background: url(../images/casestudy/eatlocal/eatlocal-cover-1024x512.jpg)!important;
+        background-repeat: no-repeat!important;
+        background-attachment: fixed!important;
+        background-size: 100%!important;
+        width: 100%!important;
+        background-position: center!important;
+    }
+    #par .parallax-utap {
+        background: url(../images/casestudy/utap/utap-cover-1024x512.jpg)!important;
         background-repeat: no-repeat!important;
         background-attachment: fixed!important;
         background-size: 100%!important;
@@ -1100,6 +1196,30 @@
         width: 100%!important;
         background-position: center!important;
     }
+    #par .parallax-hellomom {
+        background: url(../images/casestudy/hellomom/hellomom-cover-1024x512.jpg)!important;
+        background-repeat: no-repeat!important;
+        background-attachment: fixed!important;
+        background-size: 100%!important;
+        width: 100%!important;
+        background-position: center!important;
+    }
+    #par .parallax-eatlocal {
+        background: url(../images/casestudy/eatlocal/eatlocal-cover-1024x512.jpg)!important;
+        background-repeat: no-repeat!important;
+        background-attachment: fixed!important;
+        background-size: 100%!important;
+        width: 100%!important;
+        background-position: center!important;
+    }
+    #par .parallax-utap {
+        background: url(../images/casestudy/utap/utap-cover-1024x512.jpg)!important;
+        background-repeat: no-repeat!important;
+        background-attachment: fixed!important;
+        background-size: 100%!important;
+        width: 100%!important;
+        background-position: center!important;
+    }
 }
 
 @media screen and (min-width: 1400px) {
@@ -1129,7 +1249,31 @@
         position: relative;
     }
     #par .parallax-f4u {
-        background: url(../images/casestudy/financeu/f4u-cover-1400x700.jpg)!important;
+        background: url(../images/casestudy/financeu/f4u-cover-1440x720.jpg)!important;
+        background-repeat: no-repeat!important;
+        background-attachment: fixed!important;
+        background-size: 100%!important;
+        width: 100%!important;
+        background-position: center!important;
+    }
+    #par .parallax-hellomom {
+        background: url(../images/casestudy/hellomom/hellomom-cover-1440x720.jpg)!important;
+        background-repeat: no-repeat!important;
+        background-attachment: fixed!important;
+        background-size: 100%!important;
+        width: 100%!important;
+        background-position: center!important;
+    }
+    #par .parallax-eatlocal {
+        background: url(../images/casestudy/eatlocal/eatlocal-cover-1440x720.jpg)!important;
+        background-repeat: no-repeat!important;
+        background-attachment: fixed!important;
+        background-size: 100%!important;
+        width: 100%!important;
+        background-position: center!important;
+    }
+    #par .parallax-utap {
+        background: url(../images/casestudy/utap/utap-cover-1440x720.jpg)!important;
         background-repeat: no-repeat!important;
         background-attachment: fixed!important;
         background-size: 100%!important;
@@ -1575,7 +1719,31 @@
         height: 100px;
     }
     #par .parallax-f4u {
-        background: url(../images/casestudy/financeu/f4u-cover-2000x1000.jpg)!important;
+        background: url(../images/casestudy/financeu/f4u-cover-2560x1280.jpg)!important;
+        background-repeat: no-repeat!important;
+        background-attachment: fixed!important;
+        background-size: 100%!important;
+        width: 100%!important;
+        background-position: center!important;
+    }
+    #par .parallax-hellomom {
+        background: url(../images/casestudy/hellomom/hellomom-cover-2560x1280.jpg)!important;
+        background-repeat: no-repeat!important;
+        background-attachment: fixed!important;
+        background-size: 100%!important;
+        width: 100%!important;
+        background-position: center!important;
+    }
+    #par .parallax-eatlocal {
+        background: url(../images/casestudy/eatlocal/eatlocal-cover-2560x1280.jpg)!important;
+        background-repeat: no-repeat!important;
+        background-attachment: fixed!important;
+        background-size: 100%!important;
+        width: 100%!important;
+        background-position: center!important;
+    }
+    #par .parallax-utap {
+        background: url(../images/casestudy/utap/utap-cover-2560x1280.jpg)!important;
         background-repeat: no-repeat!important;
         background-attachment: fixed!important;
         background-size: 100%!important;
