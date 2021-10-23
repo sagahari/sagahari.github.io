@@ -17,15 +17,15 @@ jQuery(function ($) {
         docSlider.init({
             pager: false,
             scrollReset: false,
-            beforeChange: function (index, page, toIndex, toPage, type) {
-                if ($('#' + toPage.id).is(":hidden")) {
-                    if (toIndex > index) {
-                        docSlider.nextPage();
-                    } else {
-                        docSlider.prevPage();
-                    }
-                }
-            }
+            // beforeChange: function (index, page, toIndex, toPage, type) {
+            //     if ($('#' + toPage.id).is(":hidden")) {
+            //         if (toIndex > index) {
+            //             docSlider.nextPage();
+            //         } else {
+            //             docSlider.prevPage();
+            //         }
+            //     }
+            // }
         });
 
         if (location.hash) {
