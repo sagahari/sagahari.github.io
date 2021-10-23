@@ -28,6 +28,9 @@
     #second .carousel-inner>.item>a>img, #second .carousel-inner>.item>img {
         margin-top: 0px;
     }
+    #second #carousel .item {
+        align-items: center;
+    }
     .third img {
         float: right;
         width: 40%;
@@ -714,6 +717,9 @@
         background-size: 100%!important;
         width: 100%!important;
         background-position: center!important;
+    }
+    #second #carousel .item {
+        align-items: center;
     }
 }
 

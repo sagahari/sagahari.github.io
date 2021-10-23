@@ -2102,9 +2102,8 @@ section {
     top: 0px;
 }
 
-#second #carousel picture {
+#second #carousel .item {
     justify-content: center;
-    align-items: center;
     display: flex;
     height: 100vh;
 }
