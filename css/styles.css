@@ -1828,7 +1828,6 @@ body {
 
 .case .Scroller {
     position: relative;
-    padding-bottom: 20px;
 }
 
 #NojQ .col-md-6 {
@@ -2107,7 +2106,7 @@ section {
 }
 
 .carousel-control.right {
-    right: 15px;
+    right: 15px!important;
 }
 
 .carousel-control.left {
