@@ -28,7 +28,10 @@
     #second .carousel-inner>.item>a>img, #second .carousel-inner>.item>img {
         margin-top: 0px;
     }
-    #second #carousel .item {
+    #second #carousel picture {
+        height: 100vh;
+        display: flex;
+        justify-content: center;
         align-items: center;
     }
     .third img {
@@ -718,7 +721,10 @@
         width: 100%!important;
         background-position: center!important;
     }
-    #second #carousel .item {
+    #second #carousel picture {
+        height: 100vh;
+        display: flex;
+        justify-content: center;
         align-items: center;
     }
 }
