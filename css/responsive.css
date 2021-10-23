@@ -1223,6 +1223,9 @@
 }
 
 @media screen and (min-width: 1400px) {
+    .triangle-5 {
+        left: 164px;
+    }
     #Top .contents h5 {
         margin-top: 50px!important;
     }
@@ -1753,6 +1756,9 @@
 }
 
 @media screen and (min-width: 1900px) {
+    .triangle-5 {
+        left: 270px;
+    }
     .about .profile h2 {
         font-style: normal;
         font-weight: bold;
