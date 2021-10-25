@@ -102,7 +102,6 @@
         margin-left: 30px;
     }
     .lb-data .lb-close {
-        top: 0px;
         right: 0px;
     }
     .menu__item {
@@ -180,7 +179,7 @@
         margin-top: 50px;
     }
     .about .carousel-control.right, .about .carousel-control.left {
-        top: 55%;
+        top: 49%;
     }
     .NojQ span.title {
         top: -75px;
@@ -658,7 +657,7 @@
         color: #000;
     }
     .case #par .col-md-12 {
-        padding-bottom: 25px;
+        margin-bottom: 25px;
     }
     .tw p {
         font-size: 14px;
