@@ -241,6 +241,7 @@ section#contact-us {
     opacity: 0.09;
     line-height: 353px;
     color: #F05879;
+    z-index: -1;
 }
 
 .container {
